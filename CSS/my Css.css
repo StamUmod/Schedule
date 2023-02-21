@@ -1,0 +1,26 @@
+
+/*HTML元素*/
+body{
+    background-color: rgb(152, 152, 152);
+    font-size:0.75rem;
+}
+
+a{
+    color: #e0b975;
+    text-decoration: none;
+}
+div> div> a{
+    color: red;
+}
+/* CLASS */
+.req-cls{
+    background-color: #da98d2;
+}
+
+/* ID */
+#hate{
+    color: #ff0000;
+}
+#hate01{
+    color: aliceblue;
+}
